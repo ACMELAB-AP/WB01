@@ -1,6 +1,7 @@
 {
     "version": "1.0.0",
     "size": 473300,
+    "crc32": 1255105407,
     "chunk_size": 10000,
     "chunks": 48,
     "files": [
