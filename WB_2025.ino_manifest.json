@@ -1,9 +1,9 @@
 {
     "version": "1.0.0",
-    "size": 473300,
-    "crc32": 1255105407,
+    "size": 496208,
+    "crc32": 3978122068,
     "chunk_size": 15000,
-    "chunks": 32,
+    "chunks": 34,
     "files": [
         "WB_2025.ino_000.bin",
         "WB_2025.ino_001.bin",
@@ -36,6 +36,8 @@
         "WB_2025.ino_028.bin",
         "WB_2025.ino_029.bin",
         "WB_2025.ino_030.bin",
-        "WB_2025.ino_031.bin"
+        "WB_2025.ino_031.bin",
+        "WB_2025.ino_032.bin",
+        "WB_2025.ino_033.bin"
     ]
 }
